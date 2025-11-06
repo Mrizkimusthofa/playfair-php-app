@@ -1,0 +1,4 @@
+/* style.css */
+.process-line{ padding:6px 8px; border-radius:4px; margin-bottom:4px; }
+.process-line.highlight{ background: #fff3b0; border-left:4px solid #ffde59; }
+#processLog{ max-height:300px; overflow:auto; white-space:pre-wrap; }
